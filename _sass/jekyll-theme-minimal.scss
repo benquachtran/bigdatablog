@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:430px;
+  width:860px;
   margin:0 auto;
 }
 
@@ -232,7 +232,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 1000px) {
   body {
     word-wrap:break-word;
   }

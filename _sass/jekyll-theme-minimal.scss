@@ -173,7 +173,7 @@ header ul a strong {
 }
 
 section {
-  width:800px;
+  width:500px;
   float:right;
   padding-bottom:50px;
 }
@@ -232,7 +232,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 1320px) {
   body {
     word-wrap:break-word;
   }

@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# [](#header-2)Latest Posts
+## [](#header-2)Latest Posts
 
-A
+
